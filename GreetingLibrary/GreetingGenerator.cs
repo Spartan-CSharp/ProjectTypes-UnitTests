@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace GreetingLibrary
+﻿namespace GreetingLibrary
 {
 	public class GreetingGenerator
 	{
